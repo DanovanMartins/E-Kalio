@@ -1,0 +1,33 @@
+Display TFT
+    
+    medidas da placa
+
+    6.9 x 5 cm
+
+2 x Arduino stand-alone
+    
+    medidas da placa
+
+    8 x 5 cm
+
+    distancia entre parafusos
+    
+    |
+    |
+    |
+    |
+    |   6.8 cm
+    |
+    |
+    |
+    |
+     ___________
+    
+        3.9 cm
+    
+Servo
+    medidas do servo
+
+    3.8 x 1.2 cm
+
+
